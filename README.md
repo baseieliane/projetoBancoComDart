@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Programa desenvolvido durante curso: "Dart: trabalhando com orientação a objetos".
+Uma aplicação que trabalha com criação de diversos tipos de contas de banco e faz transações.
